@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
       - name: myjavaapp-pod
-        image: ashoknagireddy4/myjenkins:ashdev
+        image: ashoknagireddy4/myjenkins:ash1dev
         ports:
         - containerPort:  8080
           protocol: TCP
